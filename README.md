@@ -18,10 +18,10 @@ cd your_project_name
 ## 2. Copy the `assets` folder
 Copy the `assets` folder and all its contents to the root ot the project
 
-## 3. Replcate the contents of the `lib` folder
+## 3. Replace the contents of the `lib` folder
 Replace the contents of the `lib` folder with the contents of the `lib` folder in this github repo
 
-## 4. Replcate the `pubspec.yaml` file
+## 4. Replace the `pubspec.yaml` file
 Delete the current `pubspec.yaml` file and copy the one from this repo to the root of your project
 
 ## 5. Install dependencies
